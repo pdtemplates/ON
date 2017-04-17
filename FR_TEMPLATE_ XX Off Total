@@ -45,9 +45,9 @@
 	<div class="pd__xxOffTotal-tile">
 		<div class="pd__xxOffTotal-tile-content-wrapper">
 			<div class="pd__xxOffTotal-tile-super-title">en ligne seulement.</div>
-			<div class="pd__xxOffTotal-tile-super-title">l'offre prend fin le 7 mai.</div>
+			<div class="pd__xxOffTotal-tile-super-title">aujourd'hui seulement.</div>
 			<div class="pd__xxOffTotal-tile-title">rabais de xx % sur tout</div>
 			<div class="pd__xxOffTotal-tile-sub-title">sans exclusions!</div>
-			<div class="pd__xxOffTotal-tile-code-text">saisir le code <span>xxxxx</span></div>
+			<div class="pd__xxOffTotal-tile-code-text">code <span>xxxxx</span></div>
 		</div>
 	</div>
